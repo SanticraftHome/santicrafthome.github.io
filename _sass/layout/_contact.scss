@@ -1,23 +1,24 @@
 // Styling for the contact section
 section#contact {
-  background-color: $gray-900;
+  background-color: White;
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   .section-heading {
-    color: $white;
+    color: darkblue;
   }
   .form-group {
     margin-bottom: 25px;
     input,
     textarea {
-      padding: 20px;
+      padding: 15px;
     }
     input.form-control {
       height: auto;
     }
-    textarea.form-control {
-      height: 248px;
+    textarea.form-control { //Message* input field area size 
+      height: 75px;
     }
   }
   .form-control:focus {
