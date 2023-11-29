@@ -8,15 +8,15 @@ p {
   line-height: 1.75;
 }
 
-a {
-  color: $primary;
+a { //markdown button text and privacy policy
+  color: darkblue;
   &:hover {
     color: darken($primary, 10%);
   }
 }
 
-.text-primary {
-  color: $primary !important;
+.text-primary { //Services buttons
+  color: blue !important;
 }
 
 h1,
