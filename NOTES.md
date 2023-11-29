@@ -12,3 +12,4 @@ Local website build would reset the changes of _site due to it being ingored. _s
   * timeline.html
 * added homes_background.png
 * Modified contact section: class="section-subheading" style="color: darkblue;">{{ site.data.sitetext[site.locale].contact.text | markdownify }}
+* Modified navbar header for mobile screens.
