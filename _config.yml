@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://github.com/SanticraftHome" # the base hostname & protocol for your site, e.g. http://example.com
-baserul_github: "https://santicrafthome.github.io"
+baseurl_github: "https://santicrafthome.github.io"
 baseurl: "/santicrafthome.github.io" # the subpath of your site, e.g. /blog
 
 title      : Welcome to Santicraft!
