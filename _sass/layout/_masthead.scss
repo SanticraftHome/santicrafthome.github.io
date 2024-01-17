@@ -14,7 +14,7 @@ header.masthead {
       font-size: 18px;
       font-style: italic;
       line-height: 22px;
-      margin-bottom: 25px;
+      margin-bottom: 10px;
       @include serif-font;
     }
     .intro-heading {
@@ -30,7 +30,7 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 275px;
+      padding-top: 325px;
       padding-bottom: 200px;
       .intro-lead-in {
         font-size: 40px;
@@ -44,7 +44,7 @@ header.masthead {
         font-weight: 700;
         line-height: 75px;
         margin-top: 200px;
-        margin-bottom: 10px; //distance between text and Tell Me More button
+        margin-bottom: 5px; //distance between text and Tell Me More button
         @include heading-font;
       }
     }
