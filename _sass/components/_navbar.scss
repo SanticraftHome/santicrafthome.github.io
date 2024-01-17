@@ -1,16 +1,16 @@
 // Styling for the navbar
 #mainNav {
   background-color: $gray-900;
-  .navbar-toggler {  //toggles button Menu button on small devices
-    font-size: 12px;
-    right: 0;
-    padding: 13px;
-    text-transform: uppercase;
-    color: white;
-    border: 0;
-    background-color: $primary;
-    @include heading-font;
-  }
+  // .navbar-toggler {  //toggles button Menu button on small devices
+  //   font-size: 12px;
+  //   right: 0;
+  //   padding: 13px;
+  //   text-transform: uppercase;
+  //   color: white;
+  //   border: 0;
+  //   background-color: $primary;
+  //   @include heading-font;
+  // }
   .navbar-brand { //Welcome to Santicraft!
     color: white;
     @include script-font;
@@ -65,6 +65,7 @@
       padding-bottom: 0;
       background-color: $gray-900;
       .navbar-brand {
+        // position: top;
         font-size: 1.25em;
         padding: 12px 0;
       }
@@ -86,15 +87,22 @@
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      height: 10px; // adjust as needed
     }
     .navbar-nav .nav-item .nav-link {
       padding: 0.8em 0.5em !important; // Adjust the padding for mobile
     }
     &.navbar-shrink {
+      position: top;
       padding-top: 0;
       padding-bottom: 0;
       background-color: $gray-900;
       .navbar-brand {
+        // position: top;
         font-size: 1.5em;
         padding: 12px 0;
       }
