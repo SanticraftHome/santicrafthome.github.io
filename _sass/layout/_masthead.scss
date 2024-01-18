@@ -31,7 +31,7 @@ header.masthead {
   header.masthead {
     .intro-text {
       padding-top: 325px;
-      padding-bottom: 200px;
+      padding-bottom: 250px;
       .intro-lead-in {
         font-size: 40px;
         font-style: italic;
@@ -54,9 +54,11 @@ header.masthead {
   header.masthead {
     background-position: center top;
     background-size: contain;
+    padding-top: 50px;
+    padding-bottom: 50px;
     .intro-text {
-      padding-top: 100px;
-      padding-bottom: 50px;
+      padding-top: 150px;
+      padding-bottom: 100px;
       .intro-lead-in {
         font-size: 16px;
         line-height: 20px;
