@@ -14,10 +14,7 @@
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
-              {% if service.image %}
-              <img src="{{ site.baseurl }}{{ service.image }}" alt="{{ service.title }}" width="300" height="auto">
-              {% endif %}
-              <!-- <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i> -->
+              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
