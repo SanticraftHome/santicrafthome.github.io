@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Kitchen Remodeling
+  subtitle: Click to see the result
   thumbnail: assets/img/portfolio/dan_basement_1b.jpg
   
 #what displays when the item is clicked:
