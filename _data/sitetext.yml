@@ -79,8 +79,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Building Dreams Together"
+    body: "We are a family-run business with a shared passion for building and a commitment to excellence. We understand the value of trust, and that's why we treat every project as if it were for our own family. Our diverse set of skills within various construction fields and trades enables us to offer a wide range of services tailored to your unique needs. With a deep sense of dedication and craftsmanship, we're here to turn your vision into a reality. At Santicraft, you're not just a client; you're an extension of our family. Join us on this journey, and let's build something amazing together."
     section: about
 
   clients:
@@ -141,13 +141,13 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: |
-      **Phone: (347)351-9942**
+       **Phone: (347)351-9942**
 
-      **Phone: (646)533-6936**
+       **Phone: (646)533-6936**
 
-      **Email: _santicrafthome@gmail.com_**
+       **Email: _santicrafthome@gmail.com_**
 
-      **Send Us A Message**
+       **Send Us A Message**
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

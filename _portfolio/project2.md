@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Basement
+  title: Kitchen
   subtitle:
-  thumbnail: assets/img/portfolio/dan_basement_1b.jpg
+  thumbnail: assets/img/portfolio/kitchen_before_1.png
   
 #what displays when the item is clicked:
-title: Full Basement Remodeling
+title: Full Kitchen Remodeling
 subtitle: 
-image: assets/img/portfolio/dan_basement_1a.jpg #https://place-hold.it/400x300 main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/kitchen_after_1.png #https://place-hold.it/400x300 main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
