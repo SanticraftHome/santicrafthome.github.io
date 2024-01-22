@@ -1,21 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: 
-# image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
-
-caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail:
-  # thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+caption: #what displays in the portfolio grid:
+  title: Interior
+  subtitle:
+  thumbnail: assets/img/portfolio/interior_before.png
+  
+#what displays when the item is clicked:
+title: Full Interior Services
+subtitle: 
+image: assets/img/portfolio/interior_after_1.png
 ---
+<!-- Use this area to describe your project. **Markdown** supported.
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+optional info list (delete if not using):
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+{:.list-inline} 
+- Date: 
+- Client: 
+- Category: 
+ -->

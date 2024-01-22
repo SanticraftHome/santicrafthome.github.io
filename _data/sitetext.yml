@@ -42,7 +42,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Explore Our Work"
+    text: "Explore Our Work, Click To View Results"
     section: portfolio
     closebutton: "Close Project"
 

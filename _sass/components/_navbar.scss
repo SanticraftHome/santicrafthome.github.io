@@ -75,8 +75,8 @@
 @media (max-width: 767px) {
   #mainNav {
     /* Add your mobile-specific styles here */
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -99,7 +99,7 @@
     &.navbar-shrink {
       position: top;
       padding-top: 0;
-      padding-bottom: 0;
+      // padding-bottom: 0;
       background-color: $gray-900;
       .navbar-brand {
         // position: top;
