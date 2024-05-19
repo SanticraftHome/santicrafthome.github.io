@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Interior
   subtitle:
-  thumbnail: assets/img/portfolio/interior_before.png
+  thumbnail: assets/img/portfolio/Santiago_3b.jpg
   
 #what displays when the item is clicked:
 title: Full Interior Services
 subtitle: 
-image: assets/img/portfolio/interior_after_1.png
+image: assets/img/portfolio/Santiago_3a.jpg
 ---
 <!-- Use this area to describe your project. **Markdown** supported.
 
