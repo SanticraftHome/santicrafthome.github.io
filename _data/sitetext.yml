@@ -46,6 +46,9 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
+  basement:
+    title: "Basement"
+
   timeline:
     # title: "Timeline"
     # text: "Lorem ipsum timeline"
