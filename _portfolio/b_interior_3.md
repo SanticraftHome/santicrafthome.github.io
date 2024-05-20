@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/Santiago_3b.jpg
   
 #what displays when the item is clicked:
-title: Full Interior Services
+title: 
 subtitle: 
 image: assets/img/portfolio/Santiago_3a.jpg
 ---
