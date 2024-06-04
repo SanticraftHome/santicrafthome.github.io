@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/main_logo.png"
-contact-image: "../img/homes_background.png"
+header-image: "../img/LogoFinal.png"
+contact-image: ""
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
